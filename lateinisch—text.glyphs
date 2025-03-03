@@ -2,10 +2,9 @@
 .appVersion = "3337";
 .formatVersion = 3;
 DisplayStrings = (
-y,
-"ionise epaulette entamoeba la cuna philamot third mortgagor gahnite majorette consecrates dibblers severy kernel dealer inflammatory chronon signalmen pervertedly coil exul",
-"/_corner.rightBottomSerif",
-"/_corner.leftBottomSerif"
+ABCDEFGHIJKLMNOPQRSTUVWXYZ,
+"Happy IBiDrthday to me",
+D
 );
 date = "2025-02-21 16:21:33 +0000";
 familyName = "Lateinisch-ish";
@@ -125,27 +124,116 @@ unicode = 65;
 },
 {
 glyphname = B;
+lastChange = "2025-03-03 21:29:19 +0000";
 layers = (
 {
+backgroundImage = {
+imagePath = "specimen-images/12pt-capB.jpg";
+pos = (-11,-214);
+scale = (10.7,10.7);
+};
+hints = (
+{
+name = _corner.leftBottomSerif;
+origin = (0,6);
+type = Corner;
+},
+{
+name = _corner.leftBottomSerif;
+options = 1;
+origin = (0,5);
+scale = (-1,1);
+type = Corner;
+}
+);
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(172,44,l),
+(172,44,l),
+(172,707,l),
+(173,707,l),
+(173,753,l),
+(92,752,l),
+(92,0,l),
+(172,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(173,397,l),
+(209,397,l),
+(312,395,ls),
+(454,393,o),
+(570,471,o),
+(570,577,cs),
+(570,679,o),
+(454,755,o),
+(312,754,cs),
+(173,753,l),
+(173,731,l),
+(312,733,ls),
+(425,734,o),
+(509,669,o),
+(509,578,cs),
+(509,458,o),
+(425,417,o),
+(312,417,c),
+(173,418,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(172,0,l),
+(214,1,l),
+(331,-2,ls),
+(493,-4,o),
+(625,86,o),
+(625,209,cs),
+(625,328,o),
+(493,416,o),
+(331,415,cs),
+(173,414,l),
+(173,388,l),
+(331,390,ls),
+(460,392,o),
+(556,316,o),
+(556,211,cs),
+(556,71,o),
+(460,24,o),
+(331,24,c),
+(172,24,l)
+);
+}
+);
+width = 680;
 }
 );
 unicode = 66;
 },
 {
 glyphname = C;
+lastChange = "2025-03-03 19:40:03 +0000";
 layers = (
 {
+backgroundImage = {
+imagePath = "specimen-images/12pt-capC.jpg";
+pos = (22,-227);
+scale = (10.7,10.7);
+};
 layerId = m01;
-width = 600;
+width = 750;
 }
 );
 unicode = 67;
 },
 {
 glyphname = D;
-lastChange = "2025-03-02 17:44:56 +0000";
+lastChange = "2025-03-03 19:38:13 +0000";
 layers = (
 {
 backgroundImage = {
@@ -396,17 +484,23 @@ unicode = 70;
 },
 {
 glyphname = G;
+lastChange = "2025-03-03 19:40:51 +0000";
 layers = (
 {
+backgroundImage = {
+imagePath = "specimen-images/12pt-capG.jpg";
+pos = (-27,-223);
+scale = (10.7,10.7);
+};
 layerId = m01;
-width = 600;
+width = 825;
 }
 );
 unicode = 71;
 },
 {
 glyphname = H;
-lastChange = "2025-03-02 17:41:24 +0000";
+lastChange = "2025-03-03 20:10:09 +0000";
 layers = (
 {
 backgroundImage = {
@@ -482,18 +576,18 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(117,0,l),
+(112,0,l),
 (192,0,l),
 (192,752,l),
-(117,752,l)
+(112,752,l)
 );
 },
 {
 closed = 1;
 nodes = (
 (612,0,l),
-(687,0,l),
-(687,752,l),
+(693,0,l),
+(693,752,l),
 (612,752,l)
 );
 },
@@ -567,8 +661,14 @@ unicode = 73;
 },
 {
 glyphname = J;
+lastChange = "2025-03-03 19:41:19 +0000";
 layers = (
 {
+backgroundImage = {
+imagePath = "specimen-images/12pt-capJ.jpg";
+pos = (24,-233);
+scale = (10.7,10.7);
+};
 layerId = m01;
 width = 600;
 }
@@ -577,10 +677,16 @@ unicode = 74;
 },
 {
 glyphname = K;
+lastChange = "2025-03-03 19:41:43 +0000";
 layers = (
 {
+backgroundImage = {
+imagePath = "specimen-images/12pt-capK.jpg";
+pos = (-36,-220);
+scale = (10.7,10.7);
+};
 layerId = m01;
-width = 600;
+width = 760;
 }
 );
 unicode = 75;
@@ -651,10 +757,16 @@ unicode = 76;
 },
 {
 glyphname = M;
+lastChange = "2025-03-03 19:42:19 +0000";
 layers = (
 {
+backgroundImage = {
+imagePath = "specimen-images/12pt-capM.jpg";
+pos = (58,-220);
+scale = (10.7,10.7);
+};
 layerId = m01;
-width = 600;
+width = 1060;
 }
 );
 unicode = 77;
@@ -794,40 +906,64 @@ unicode = 79;
 },
 {
 glyphname = P;
+lastChange = "2025-03-03 19:45:34 +0000";
 layers = (
 {
+backgroundImage = {
+imagePath = "specimen-images/12pt-capP.jpg";
+pos = (-1,-219);
+scale = (10.7,10.7);
+};
 layerId = m01;
-width = 600;
+width = 700;
 }
 );
 unicode = 80;
 },
 {
 glyphname = Q;
+lastChange = "2025-03-03 19:46:14 +0000";
 layers = (
 {
+backgroundImage = {
+imagePath = "specimen-images/12pt-capQ.jpg";
+pos = (67,-215);
+scale = (10.7,10.7);
+};
 layerId = m01;
-width = 600;
+width = 940;
 }
 );
 unicode = 81;
 },
 {
 glyphname = R;
+lastChange = "2025-03-03 19:56:26 +0000";
 layers = (
 {
+backgroundImage = {
+imagePath = "specimen-images/12pt-capR.jpg";
+pos = (0,-223);
+scale = (10.7,10.7);
+};
 layerId = m01;
-width = 600;
+width = 700;
 }
 );
 unicode = 82;
 },
 {
 glyphname = S;
+lastChange = "2025-03-03 19:56:32 +0000";
 layers = (
 {
+backgroundImage = {
+imagePath = "specimen-images/12pt-capS.jpg";
+pos = (0,-223);
+scale = (10.7,10.7);
+};
 layerId = m01;
-width = 600;
+width = 590;
 }
 );
 unicode = 83;
@@ -906,17 +1042,23 @@ unicode = 84;
 },
 {
 glyphname = U;
+lastChange = "2025-03-03 20:07:15 +0000";
 layers = (
 {
+backgroundImage = {
+imagePath = "specimen-images/10pt-capU.jpg";
+pos = (24,-327);
+scale = (12.84,12.84);
+};
 layerId = m01;
-width = 600;
+width = 830;
 }
 );
 unicode = 85;
 },
 {
 glyphname = V;
-lastChange = "2025-03-01 03:37:15 +0000";
+lastChange = "2025-03-03 19:56:56 +0000";
 layers = (
 {
 backgroundImage = {
@@ -976,38 +1118,62 @@ unicode = 86;
 },
 {
 glyphname = W;
+lastChange = "2025-03-03 19:57:50 +0000";
 layers = (
 {
+backgroundImage = {
+imagePath = "specimen-images/10pt-capW.jpg";
+pos = (-3,-334);
+scale = (12.84,12.84);
+};
 layerId = m01;
-width = 600;
+width = 1050;
 }
 );
 unicode = 87;
 },
 {
 glyphname = X;
+lastChange = "2025-03-03 19:57:57 +0000";
 layers = (
 {
+backgroundImage = {
+imagePath = "specimen-images/10pt-capX.jpg";
+pos = (0,-332);
+scale = (12.84,12.84);
+};
 layerId = m01;
-width = 600;
+width = 730;
 }
 );
 unicode = 88;
 },
 {
 glyphname = Y;
+lastChange = "2025-03-03 19:58:18 +0000";
 layers = (
 {
+backgroundImage = {
+imagePath = "specimen-images/10pt-capY.jpg";
+pos = (39,-332);
+scale = (12.84,12.84);
+};
 layerId = m01;
-width = 600;
+width = 770;
 }
 );
 unicode = 89;
 },
 {
 glyphname = Z;
+lastChange = "2025-03-03 19:58:34 +0000";
 layers = (
 {
+backgroundImage = {
+imagePath = "specimen-images/10pt-capZ.jpg";
+pos = (-33,-330);
+scale = (12.84,12.84);
+};
 layerId = m01;
 width = 600;
 }
@@ -3589,7 +3755,7 @@ userData = {
 GSDimensionPlugin.Dimensions = {
 m01 = {
 HH = "35";
-HV = "75";
+HV = "80";
 OH = "40";
 OV = "85";
 nV = "75";
